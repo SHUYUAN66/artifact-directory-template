@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+Using Epidemiology Model To Predict Case Numbers for COVID-19
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+The early state and late stage of a pandemic is very different. At early stage, the case number  grows exponentially. Government agencies and institutions want to the ability to forecast the number of cases inorder to allocated medical and other resources. Furthermore, knowing how protocols such as stay at homeorder can affect the case number is extremely useful to make predictions. However, in order to predict numberof cases in the future, the growth factor is needed and can be generated from fitting previous data to anepidemiology model. The exponential factor is based on two factors that can be learned from data:  the infection rate,β and number of days a patient stays infectious D. 

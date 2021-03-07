@@ -1,7 +1,7 @@
 {
-    "this-repository": "https://github.com/DSC-Capstone/artifact-directory-template.git",
-    "project-repository": "https://github.com/DSC-Capstone/project-templates.git",
-    "dockerhub-repository": "amfraenkel/fair-policing-project:latest",
-    "project-website-url": "https://afraenkel.github.io/capstone-malware-domain/",
-    "project-website-code": "https://github.com/afraenkel/capstone-malware-domain.git"
+    "this-repository": "https://github.com/SHUYUAN66/artifact-directory-template",
+    "project-repository": "https://github.com/wendyw1999/epidemiology_capstone_project",
+    "dockerhub-repository": "https://hub.docker.com/repository/docker/caw062/test",
+    "project-website-url": "https://shuyuan66.github.io/capstone_epidemiology__web/",
+    "project-website-code": "https://github.com/SHUYUAN66/capstone_epidemiology__web"
 }
